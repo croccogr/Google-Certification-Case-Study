@@ -22,7 +22,7 @@ The project seeks to answer the following questions:
 - Why would casual riders buy a membership?
 - How can Cyclistic use digital media to influence casual riders to become members?
 
-## Work
+## Work 
 
 ### Ask Phase
 The provided guide questions were:
